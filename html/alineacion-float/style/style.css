@@ -1,0 +1,45 @@
+*{
+	margin: 0 auto;
+}
+.container{
+	height: 1000px;
+	width: 100%;
+	background-color: yellow;	
+}
+.float{
+	width: 10%;
+	height: 1000px;
+	float: left;	
+}
+
+.barra1{
+	background-color: #000000;	 
+}
+.barra2{
+	background-color: #151515;
+}
+.barra3{
+	background-color: #1C1C1C;
+}
+.barra4{
+	background-color: #2E2E2E;
+}
+.barra5{
+	background-color: #424242;
+}
+.barra6{
+	background-color: #585858;
+}
+.barra7{
+	background-color: #6E6E6E;
+}
+.barra8{
+	background-color: #848484;
+}
+.barra9{
+	background-color: #A4A4A4;
+}
+.barra10{
+	background-color: #BDBDBD;
+}
+
