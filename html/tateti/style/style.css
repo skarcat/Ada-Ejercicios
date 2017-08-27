@@ -1,0 +1,23 @@
+*{
+	margin: 0auto;
+}
+
+#contenedor{ 
+	width:100%;
+	height:700px;
+
+}
+
+td{
+
+    width:150px;
+	height:150px;
+
+}
+
+ #columna6 #columna7 #columna8 
+ {
+ 	background: white;
+ }
+
+
