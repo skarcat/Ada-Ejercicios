@@ -1,23 +1,32 @@
 *{
-	margin: 0auto;
+	margin: 0px
+	padding:0px;
+	box-sizing: border-box;
+
 }
 
 #contenedor{ 
-	width:100%;
-	height:700px;
+	width:450px;
+	height:450px;
 
-}
+    }
+
+.columna{
+	border: 4px solid blue;
+	display: inline-block;
+	margin: -4px;
+	
+	}
+
 
 td{
-
-    width:150px;
+	width:150px;
 	height:150px;
-
+    margin:4px 4px;
 }
 
- #columna6 #columna7 #columna8 
- {
- 	background: white;
- }
+
+
+
 
 

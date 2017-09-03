@@ -1,0 +1,22 @@
+*{margin: 0auto;
+padding:0auto;}
+
+.circulos{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+float:left;
+margin: 10px;
+}
+
+ .blue{
+	background-color: blue;
+}
+
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}

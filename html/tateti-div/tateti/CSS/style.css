@@ -1,3 +1,4 @@
+
 .container{
 	width: 60%;
 	height: 450px;
@@ -15,11 +16,11 @@
 .cuadros{
 	height: 150px;
 	display: inline-block;
-	border:2px solid black;
+	border:3px solid black;
 
 }
  
 .medio{
-	margin-left:-5px; 
-	margin-right:-5px; 
+	margin-left:-4px; 
+	margin-right:-4px; 
 }

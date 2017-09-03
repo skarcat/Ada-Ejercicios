@@ -1,0 +1,38 @@
+
+
+.container{
+	width: 450px;
+	height: 450px;
+	background-color:red;
+	margin: 0 auto;
+	margin-top: 50px;
+	position: relative;
+	}
+
+	.div{
+  		margin: -4px;
+		}
+
+.izquierda, .centro, .derecha{
+	width: 150px;
+	height:450px;
+	}
+
+.izquierda{
+	position:absolute;
+	top:0px;
+}
+
+.centro {
+	position:absolute;
+	left:150px;
+	top:0px;
+	}
+
+.derecha{
+	position:absolute;
+	left:300px;
+	top: 0px;
+	}
+
+

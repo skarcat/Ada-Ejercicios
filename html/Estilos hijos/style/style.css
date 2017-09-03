@@ -1,0 +1,22 @@
+/*SELECTOR DESCENDENTE*/
+afecta a todos los a que esten dentro de ese div*/
+
+div a{
+	color: blue;
+}
+
+/*//////*/
+
+/*SELECTORES DE HIJOS*/
+
+
+/*Aqui dice que al hijo directo le haga los cambios.
+ Los hijos directos son los primeros que
+aparecen enlistadodentro de un div. solo le haria el cambio
+al primer a de ese div y se escriben asi,*/
+
+div>a
+{
+	color:;
+}
+

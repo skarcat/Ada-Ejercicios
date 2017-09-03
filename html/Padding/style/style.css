@@ -1,0 +1,19 @@
+*{  margin: 0auto;
+	pading:0;
+	box-sizing:borderbox; /*esta propiedad hace que el ancho de
+	los elementos se respete y no se cambie al ponerle las margenes y el
+	padding*/
+
+div{
+	width: 200px;
+	height: 200px;
+/*padding:0 2px 0 30px;*/
+
+padding-right:2px;
+padding-bottom:0px;
+padding-top:0px;
+padding-left:30px;
+
+background-color: yellow;
+ 
+}

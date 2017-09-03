@@ -1,0 +1,67 @@
+body{
+	color: pink;
+}
+
+.destacado
+{
+	color:blue;
+}
+
+/*ejemplos de SELECTORES DESCENDENTES*/
+
+h3.destacado
+/*la clase destacado la tienen otros elementos
+afecta a los h3 que tengan la clase destacado*/
+
+
+/*Afecta a todos los otros elementos que tengan la clase destacados
+y a los h3*/
+h3, .destacado, p, a{
+	color: yelow;
+}
+
+/*Selector descendente: afecta a un h3 que este dentro de esa clase.*/
+.destacado h3{
+
+	/*ej <div class="destacado"></div>
+
+	<h3></h3> no afecta a estos que estan afuera de la clase.*/
+
+
+}
+/*///////////*/
+/*EJEMPLO PARA id*/
+
+.destacado #secundario{
+}
+
+/*
+<div class="destacado">
+<p id="secundario>"</p>
+</div>
+*/
+
+/*//////////*/
+
+
+/*asi se deberian escribir los estilos para ubicar los estilos despues*/
+main.destacado a{
+}
+
+
+/* para ponerle el mismo estilo a un id y una clase a la vez*/
+.general, #verde{
+	color: pink;
+}
+
+.general{
+	color: pink;
+}
+
+.general #verde
+{font size: 12px}
+
+/*ejemplo html*/
+<p class="general">
+
+<p class="general id="verde">
